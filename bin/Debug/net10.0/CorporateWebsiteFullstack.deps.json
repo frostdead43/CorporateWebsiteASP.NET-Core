@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CorporateWebsiteFullstack/1.0.0": {
+        "runtime": {
+          "CorporateWebsiteFullstack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CorporateWebsiteFullstack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
